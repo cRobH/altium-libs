@@ -1,1 +1,3 @@
-*.~(*).LibPkg.Zip
+*.LibPkg.Zip
+*.PcbLib.Zip
+*.SchLib.Zip
